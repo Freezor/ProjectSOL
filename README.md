@@ -19,6 +19,7 @@ es gibt keine Fragen, noch.
 
 Hier sollte die Lizenz stehen
 
+
 [release-image]: https://github.com/Freezor/ProjectSOL/img/release.png
 [releases]: https://github.com/Freezor/ProjectSOL/releases
 
